@@ -1,0 +1,17 @@
+Bộ code được phát chuyển bởi thanh vũ contact: 0377315957 zalo 0528115572 faecbook https://facebook.com/vudegaming 
+
+Cách setup
+B1: up code lên và dowloand file sql về
+B2: tiến hành config ở config/config.php
+B3: up sql lên
+B4: cấu hình lại data option chỉnh phần URL_ADMIN thành domain của website mình ( tất cả viết hoa)
+Tiếp tới là ở phần setting chình phần config_url thành domain website của mình 
+
+
+cron 
+tenmien/private/cron/momo
+tenmien/private/cron/tsr
+tenmien/private/cron/mbbank
+
+
+<!--bộ code được phát chuyển bởi Thanh Vũ zalo 0528115572 fb https://facebook.com/vudegaming nghiêm cấm hành vi bán lại code chúng tôi sẽ từ chối bảo hành khi lỗi-->
